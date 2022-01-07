@@ -1,4 +1,4 @@
-## E ai galera, muito prazer! Meu nome é Thiago Mota 😎
+## E ai, muito prazer! Meu nome é Thiago Mota 😎
 
 
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScript
