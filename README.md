@@ -1,7 +1,7 @@
 ## E ai, muito prazer! Meu nome é Thiago Mota 😎
 
 
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
+- 🌱 Atualmente estou estudando Logica de programação e linguagem C
 - 📫 Podem falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Cristo Vive!
 
