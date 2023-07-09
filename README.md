@@ -1,7 +1,6 @@
-## E ai, muito prazer! Meu nome é Thiago Mota 😎
+## FULLSTACK DEVELOPER 👨🏽‍💻
 
-
-- 🌱 Atualmente estou estudando Linguagem Java, JavaScript e ReactJs
+- 🌱 Atualmente estou estudando Java Spring, ReactJs e Typescript
 - 📫 Podem falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Cristo Vive!
 
@@ -13,8 +12,7 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Mota-REACTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Mota-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Mota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mota-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mota-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Mota-SPRINGBOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Mota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
