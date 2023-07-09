@@ -1,8 +1,8 @@
 ## FULLSTACK DEVELOPER 👨🏽‍💻
 
 - 🌱 Atualmente estou estudando Java Spring, ReactJs e Typescript
-- 📫 Podem falar comigo por aqui: thiagomotape@hotmail.com.br
-- ✝️ Cristo Vive!
+- 📫 Pode falar comigo por aqui: thiagomotape@hotmail.com.br
+- ✝️ Não se deixem vencer pelo mal, mas vençam o mal com o bem.
 
 <div >
   <a href="https://github.com/thiagomotaPE">
