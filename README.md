@@ -8,7 +8,6 @@
   <a href="https://github.com/thiagomotaPE">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomotaPE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomotaPE&layout=compact&langs_count=7&theme=dark"/>
-  <div class="tenor-gif-embed" data-postid="17611078" data-share-method="host" data-aspect-ratio="1.30081" data-width="100%"><a href="https://tenor.com/view/cat-computer-mouse-notebook-developer-gif-17611078">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
   
  <div style="display: inline_block"><br>
