@@ -1,14 +1,15 @@
-## FULLSTACK DEVELOPER 👨🏽‍💻
+## FULLSTACK DEVELOPER 👨🏽‍💻  
 
 - 🌱 Atualmente estou estudando Java Spring, ReactJs e Typescript
 - 📫 Pode falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Não se deixem vencer pelo mal, mas vençam o mal com o bem.
-
+  
 <div >
   <a href="https://github.com/thiagomotaPE">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomotaPE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomotaPE&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomotaPE&layout=compact&langs_count=7&theme=dark"/> 
+  <img width="160px" height="160px" src="#"/>
+</div>  
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Mota-REACTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
