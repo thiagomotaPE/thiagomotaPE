@@ -8,7 +8,7 @@
   <a href="https://github.com/thiagomotaPE">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomotaPE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomotaPE&layout=compact&langs_count=7&theme=dark"/> 
-  <img width="160px" height="160px" src="./catcoding.gif"/>
+  ![catcoding](https://github.com/thiagomotaPE/thiagomotaPE/assets/87782152/99d11a89-c440-40fc-a1d5-7cf94b15d254)
 </div>  
   
  <div style="display: inline_block"><br>
