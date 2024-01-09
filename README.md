@@ -1,6 +1,6 @@
 ## FULLSTACK DEVELOPER 👨🏽‍💻  
 
-- 🌱 Atualmente estou estudando desenvolvimento Web
+- 🌱 Atualmente estou estudando Angular, Nest.Js e Docker
 - 📫 Pode falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Não se deixem vencer pelo mal, mas vençam o mal com o bem.
   
