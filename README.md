@@ -1,6 +1,6 @@
 ## FULLSTACK DEVELOPER 👨🏽‍💻  
 
-- 🌱 Atualmente estou trabalhando com Angular, Nest.Js e Docker
+- 🌱 Atualmente estou trabalhando com Angular, Java e PL/SQL
 - 📫 Pode falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Não se deixem vencer pelo mal, mas vençam o mal com o bem.
   
