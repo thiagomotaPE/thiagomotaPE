@@ -4,13 +4,6 @@
 - 📫 Pode falar comigo por aqui: thiagomotape@hotmail.com.br
 - ✝️ Não se deixem vencer pelo mal, mas vençam o mal com o bem.
   
-<div >
-  <a href="https://github.com/thiagomotaPE">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomotaPE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomotaPE&layout=compact&langs_count=7&theme=dark"/> 
-  <img height="160em" src=" ![catcoding](https://github.com/thiagomotaPE/thiagomotaPE/assets/87782152/99d11a89-c440-40fc-a1d5-7cf94b15d254)"/> 
-</div>  
-  
  <div style="display: inline_block"><br>
   <img align="center" alt="Mota-SPRINGBOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Mota-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
